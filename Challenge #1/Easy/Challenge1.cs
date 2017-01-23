@@ -27,6 +27,5 @@ public class Challenge1
         username = Console.ReadLine();
 
         Console.WriteLine("Your name is {0}, you are {1} years old, and your username is {2}.", name, age, username);
-
     }
 }
