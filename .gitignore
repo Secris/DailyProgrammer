@@ -123,6 +123,9 @@ Temporary Items
 Thumbs.db
 ehthumbs.db
 
+# Windows binaries
+*.exe
+
 # Folder config file
 Desktop.ini
 
@@ -137,3 +140,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Java Compiled Files
+*.class
